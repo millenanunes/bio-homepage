@@ -28,9 +28,9 @@ body {
 }
 
 .principal {
-    background-image: url("img/Background.png");
+    background-image: url("imagens/Background_.png");
     background-repeat: no-repeat;
-    background-size: 60%;
+    background-size: 65%;
     background-position: right center;
     align-items: center;
     text-align:center;
@@ -42,7 +42,7 @@ body {
 
 .container__imagem {
     width: 40%;
-    margin-top: 6em;
+    margin-top: 0em;
 }
 
 .container__titulo1 {
@@ -51,7 +51,7 @@ body {
     margin: 1em 0 3em 0;
 }
 
-.container__titulo {
+.container__titulo2 {
     font-size: 40px;
     font-weight: 700;
 }
