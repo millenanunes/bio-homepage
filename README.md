@@ -2,7 +2,7 @@
 
 <hr>
 
-<p align="center"> Um site para divulgação da BioCode, uma plataforma de streaming com os conteúdos educacionais com foco em ENEM.
+<p align="center"> Um site para divulgação da BioCode, uma plataforma de streaming com conteúdos de Biologia focados no ENEM.
   
 ## Tecnologias
 
