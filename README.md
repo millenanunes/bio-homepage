@@ -11,8 +11,3 @@
 
 ## Screenshots
 <p align="center"> <img width="1870" height="854" alt="print_pagina_inicial_site" src="https://github.com/user-attachments/assets/2b501a09-914b-43e3-8b48-cae56cc8f8cd" /> </p>
-<p align="center"> <img width="1885" height="863" alt="print_telas" src="https://github.com/user-attachments/assets/7e6278ad-802c-4520-9602-4889bf6c3562" /> </p>
-
-<p align="center"> <img width="1864" height="722" alt="print_telas2" src="https://github.com/user-attachments/assets/7a6f68ee-1fa6-4ad2-b36a-5ebbf5957dda" /> </p>
-
-<p align="center"> <img width="1894" height="849" alt="print_dispositivos_rodape" src="https://github.com/user-attachments/assets/41ae95e1-a710-4138-a445-306f57d13c2f" /> </p>
